@@ -1,0 +1,301 @@
+Name,Location/City,University,GPA,Gender,HIV Positive,Other STDS,Financial aid
+Mike,Amsterdam,University of Amsterdam,1.2,Male,Yes,No,Yes
+Sara,Amsterdam,University of Amsterdam,3.9,Female,Yes,No,Yes
+Greta,Rotterdam,Rotterdam University,4.0,Female,Yes,No,Yes
+Clara,Amsterdam,University of Amsterdam,3.0,Female,No,No,Yes
+Jacob,Rotterdam,Rotterdam University,1.2,Male,No,No,Yes
+Mohammed,Rotterdam,Rotterdam University,3.7,Male,Yes,No,Yes
+Adam,Haarlem,Haarlem University,3.7,Male,No,No,Yes
+Sofia,Haarlem,Haarlem University,3.5,Female,Yes,No,Yes
+Maria,Amsterdam,University of Amsterdam,2.5,Female,No,No,Yes
+Isabel,Haarlem,Haarlem University,2.6,Female,Yes,No,Yes
+Bob,Haarlem,Haarlem University,2.9,Male,Yes,No,Yes
+Hilja,Haarlem,Haarlem University,4.0,Female,No,No,Yes
+Siri,Haarlem,Haarlem University,3.0,Female,No,No,Yes
+Nur,Amsterdam,University of Amsterdam,2.0,Prefer not to say,No,No,Yes
+Leila,Haarlem,Haarlem University,1.2,Female,Yes,No,Yes
+JoBeth,Rotterdam,Rotterdam University,1.1,Female,No,Yes,Yes
+Morgane,Rotterdam,Rotterdam University,1.8,Female,No,Yes,Yes
+Erik,Rotterdam,Rotterdam University,1.2,Male,Yes,Yes,No
+Nils,Rotterdam,Rotterdam University,4.0,Male,No,No,Yes
+Victor,Amsterdam,University of Amsterdam,4.0,Male,Yes,No,Yes
+Stefan,Rotterdam,Rotterdam University,4.0,Male,Yes,No,Yes
+Naomi,Rotterdam,Rotterdam University,4.0,Female,No,No,Yes
+Tess,Rotterdam,Rotterdam University,4.0,Female,Yes,Yes,Yes
+Lucas,Rotterdam,Rotterdam University,3.7,Male,Yes,Yes,Yes
+Ines,Amsterdam,University of Amsterdam,3.8,Female,No,Yes,Yes
+Agata,Amsterdam,University of Amsterdam,3.7,Female,No,Yes,Yes
+Irene,Rotterdam,Rotterdam University,3.6,Female,No,Yes,Yes
+Manda,Haarlem,Haarlem University,3.5,Female,No,Yes,Yes
+Nicky,Rotterdam,Rotterdam University,3.2,Female,No,Yes,Yes
+Beck,Haarlem,Haarlem University,3.0,Prefer not to say,Yes,No,Yes
+Becky,Rotterdam,Rotterdam University,4.0,Female,No,Yes,Yes
+Jim,Rotterdam,Rotterdam University,3.5,Male,Yes,Yes,Yes
+Elpida,Haarlem,Haarlem University,3.2,Female,No,Yes,No
+Elenora,Amsterdam,University of Amsterdam,2.7,Female,No,Yes,Yes
+Jing,Groningen,Groningen University,2.8,Female,Yes,No,No
+John,Groningen,Groningen University,2.9,Male,Yes,No,Yes
+Bradley,Groningen,Groningen University,3.1,Male,No,No,No
+Trevor,Groningen,Groningen University,3.2,Male,No,Yes,No
+Catarina,Groningen,Groningen University,3.2,Female,Yes,Yes,Yes
+Lior,Groningen,Groningen University,3.2,Male,No,Yes,No
+Ferdinand,Groningen,Groningen University,3.8,Male,Yes,Yes,No
+Ifan,Amsterdam,University of Amsterdam,3.6,Prefer not to say,No,Yes,Yes
+Arthur,Amsterdam,University of Amsterdam,1.4,Male,No,No,Yes
+Berke,Amsterdam,University of Amsterdam,1.5,Male,Yes,No,Yes
+Dante,Rotterdam,Rotterdam University,2.0,Male,Yes,No,No
+Gabriel,Rotterdam,Rotterdam University,3.0,Male,Yes,Yes,No
+Harry,Haarlem,Haarlem University,4.0,Male,Yes,No,Yes
+Zoey,Haarlem,Haarlem University,3.4,Female,Yes,Yes,Yes
+Timothy,Haarlem,Haarlem University,3.4,Male,Yes,No,No
+Tanya,Amsterdam,University of Amsterdam,3.6,Female,Yes,Yes,Yes
+Ani,Haarlem,Haarlem University,3.5,Prefer not to say,Yes,Yes,Yes
+Ali,Haarlem,Haarlem University,3.1,Male,Yes,No,Yes
+Ahmed,Amsterdam,University of Amsterdam,1.0,Male,Yes,Yes,No
+Taro,Haarlem,Haarlem University,1.7,Female,Yes,Yes,No
+Jorge,Haarlem,Haarlem University,2.7,Male,No,Yes,No
+Adila,Amsterdam,University of Amsterdam,2.6,Female,Yes,No,Yes
+Sergio,Haarlem,Haarlem University,3.8,Male,Yes,Yes,No
+Michael,Haarlem,Haarlem University,3.9,Male,Yes,Yes,No
+Klemen,Groningen,Groningen University,3.7,Female,No,Yes,Yes
+Bodgan,Amsterdam,University of Amsterdam,3.5,Male,No,No,No
+Halie,Groningen,Groningen University,3.2,Female,No,Yes,Yes
+Pawel,Amsterdam,University of Amsterdam,3.5,Male,Yes,No,Yes
+Liza,Groningen,Groningen University,3.4,Female,No,Yes,No
+Lisa,Groningen,Groningen University,1.0,Female,Yes,No,Yes
+Paolo,Amsterdam,University of Amsterdam,1.2,Male,Yes,No,Yes
+Rita,Groningen,Groningen University,3.7,Female,No,No,Yes
+Lena,Groningen,Groningen University,3.6,Female,No,Yes,Yes
+May,Groningen,Groningen University,4.0,Female,No,Yes,No
+Luis,Amsterdam,University of Amsterdam,2.1,Male,Yes,Yes,No
+Ana,Utrecht,Utrecht University,3.7,Female,No,Yes,Yes
+Anna,Utrecht,Utrecht University,2.2,Prefer not to say,No,Yes,No
+Isa,Utrecht,Utrecht University,2.7,Female,No,No,Yes
+Jules,Utrecht,Utrecht University,3.7,Female,Yes,Yes,Yes
+Damia,Amsterdam,University of Amsterdam,3.6,Female,No,Yes,Yes
+Fiona,Leiden,Leiden University,3.2,Female,No,Yes,Yes
+Nora,Leiden,Leiden University,3.7,Female,Yes,No,Yes
+Tatiana,Utrecht,Utrecht University,3.1,Prefer not to say,No,Yes,No
+Andy,Leiden,Leiden University,3.6,Male,No,Yes,Yes
+Fred,Rotterdam,Rotterdam University,3.4,Male,Yes,No,No
+Axel,Rotterdam,Rotterdam University,3.7,Male,Yes,Yes,Yes
+Alex,Rotterdam,Rotterdam University,3.7,Male,Yes,Yes,No
+Cat,Rotterdam,Rotterdam University,3.4,Prefer not to say,Yes,No,Yes
+Rodrigo,Leiden,Leiden University,3.4,Male,Yes,No,No
+Luiz,Leiden,Leiden University,3.5,Male,No,Yes,Yes
+Ryano,Leiden,Leiden University,3.6,Male,Yes,No,No
+Julia,Leiden,Leiden University,3.5,Female,No,No,Yes
+Mica,Utrecht,Utrecht University,3.5,Female,No,Yes,Yes
+Gio,Utrecht,Utrecht University,3.6,Female,Yes,No,No
+Naghe,Amsterdam,University of Amsterdam,3.5,Female,Yes,Yes,No
+Nico,Leiden,Leiden University,3.7,Male,Yes,Yes,Yes
+Simmy,Leiden,Leiden University,3.6,Male,No,Yes,Yes
+Paul,Amsterdam,University of Amsterdam,3.6,Male,No,No,Yes
+Herme,Leiden,Leiden University,3.6,Female,No,No,Yes
+Glenda,Amsterdam,University of Amsterdam,3.6,Female,Yes,No,No
+Ida,Leiden,Leiden University,3.7,Female,No,Yes,Yes
+Zara,Leiden,Leiden University,1.0,Female,No,No,Yes
+Dimitri,Utrecht,Utrecht University,0.3,Male,Yes,Yes,No
+Jana,Amsterdam,University of Amsterdam,3.6,Female,No,No,No
+Karolina,Amsterdam,University of Amsterdam,3.7,Female,No,No,Yes
+Marci,Amsterdam,University of Amsterdam,4.0,Male,Yes,Yes,Yes
+Jessica,Amsterdam,University of Amsterdam,0.5,Female,No,Yes,Yes
+Jess,Amsterdam,University of Amsterdam,3.6,Female,Yes,Yes,No
+Mikey,Amsterdam,University of Amsterdam,4.0,Male,Yes,Yes,No
+Chloe,Amsterdam,University of Amsterdam,3.7,Female,No,Yes,Yes
+Conor,Amsterdam,University of Amsterdam,2.6,Male,No,Yes,No
+Brad,Amsterdam,University of Amsterdam,2.3,Male,No,Yes,Yes
+Kajsa,Amsterdam,University of Amsterdam,2.3,Female,No,Yes,No
+Sina,Amsterdam,University of Amsterdam,3.7,Female,No,Yes,No
+Jacqluine,Utrecht,Utrecht University,3.1,Female,No,Yes,No
+Elisabeth,Amsterdam,University of Amsterdam,3.2,Female,No,Yes,Yes
+Emilie,Amsterdam,University of Amsterdam,2.0,Female,No,No,No
+Paula,Amsterdam,University of Amsterdam,4.0,Female,No,Yes,Yes
+Leo,Amsterdam,University of Amsterdam,4.0,Male,No,Yes,Yes
+Lenn,Amsterdam,University of Amsterdam,4.0,Prefer not to say,No,No,No
+Vivi,Amsterdam,University of Amsterdam,4.0,Female,No,Yes,Yes
+Karia,Amsterdam,University of Amsterdam,4.0,Female,No,Yes,Yes
+Mini,Amsterdam,University of Amsterdam,4.0,Female,No,No,Yes
+Johanna,Amsterdam,University of Amsterdam,2.7,Female,No,No,No
+Mav,Amsterdam,University of Amsterdam,2.1,Female,No,No,No
+Khana,Amsterdam,University of Amsterdam,2.3,Female,Yes,No,Yes
+Ugor,Utrecht,Utrecht University,2.6,Male,No,No,Yes
+Hamza,Amsterdam,University of Amsterdam,2.8,Male,Yes,No,Yes
+Nikita,Utrecht,Utrecht University,2.3,Female,Yes,No,No
+Moody,Amsterdam,University of Amsterdam,3.2,Female,Yes,No,Yes
+Elliot,Haarlem,Haarlem University,2.3,Male,Yes,No,Yes
+Shamar,Utrecht,Utrecht University,3.2,Male,Yes,No,No
+Savanah,Amsterdam,University of Amsterdam,3.6,Female,No,No,Yes
+Yang,Haarlem,Haarlem University,3.5,Female,No,No,No
+Sarahi,Utrecht,Utrecht University,3.9,Female,No,No,Yes
+Kinsley,Amsterdam,University of Amsterdam,3.9,Female,No,No,Yes
+Aaron,Amsterdam,University of Amsterdam,3.8,Male,Yes,No,Yes
+Aron,Amsterdam,University of Amsterdam,3.7,Male,No,No,Yes
+Daniel,Amsterdam,University of Amsterdam,1.9,Male,No,Yes,Yes
+Antonie,Amsterdam,University of Amsterdam,1.9,Male,No,Yes,No
+Lucia,Amsterdam,University of Amsterdam,1.8,Female,No,No,Yes
+Zach,Amsterdam,University of Amsterdam,2.8,Male,No,Yes,No
+Emery,Utrecht,Utrecht University,2.3,Prefer not to say,No,Yes,Yes
+Rubi,Amsterdam,University of Amsterdam,2.9,Prefer not to say,Yes,Yes,No
+Carmen,Utrecht,Utrecht University,3.7,Female,Yes,No,Yes
+Ludwig,Utrecht,Utrecht University,3.6,Male,Yes,No,No
+Lolo,Utrecht,Utrecht University,3.2,Female,No,Yes,Yes
+Miranda,Utrecht,Utrecht University,2.5,Female,Yes,Yes,Yes
+Nia,Utrecht,Utrecht University,2.5,Female,Yes,Yes,No
+Libby,Leiden,Leiden University,2.6,Female,No,Yes,No
+Emmale,Utrecht,Utrecht University,2.7,Female,Yes,No,No
+Blake,Leiden,Leiden University,1.8,Male,No,No,No
+Felipe,Rotterdam,Rotterdam University,4.0,Male,No,Yes,No
+Dominic,Rotterdam,Rotterdam University,3.9,Male,No,No,No
+Page,Rotterdam,Rotterdam University,2.7,Female,No,Yes,No
+Audrey,Leiden,Leiden University,2.1,Female,No,No,No
+Sam,Rotterdam,Rotterdam University,2.2,Male,Yes,Yes,No
+Clare,Utrecht,Utrecht University,2.3,Female,No,Yes,No
+Santana,Rotterdam,Rotterdam University,3.8,Female,Yes,Yes,Yes
+Janessa,Utrecht,Utrecht University,3.8,Female,No,No,Yes
+Riley,Haarlem,Haarlem University,3.8,Female,No,Yes,No
+Nadia,Haarlem,Haarlem University,3.7,Female,Yes,Yes,Yes
+Donald,Utrecht,Utrecht University,3.2,Male,No,Yes,No
+Devon,Haarlem,Haarlem University,3.1,Male,Yes,No,Yes
+Damon,Utrecht,Utrecht University,0.7,Male,Yes,Yes,No
+Miah,Utrecht,Utrecht University,0.9,Female,Yes,Yes,No
+Gustavo,Amsterdam,University of Amsterdam,1.7,Male,Yes,Yes,No
+Jazmine,Utrecht,Utrecht University,2.3,Female,No,No,No
+Solomon,Leiden,Leiden University,2.7,Male,Yes,Yes,No
+Melvin,Utrecht,Utrecht University,1.6,Male,No,No,No
+Scarlet,Amsterdam,University of Amsterdam,1.4,Female,Yes,No,No
+Chana,Utrecht,Utrecht University,1.4,Female,Yes,Yes,No
+Rayna,Utrecht,Utrecht University,2.9,Prefer not to say,Yes,Yes,No
+Kellen,Leiden,Leiden University,2.4,Female,Yes,Yes,No
+Miller,Haarlem,Haarlem University,3.7,Prefer not to say,Yes,Yes,Yes
+Meija,Haarlem,Haarlem University,3.6,Female,Yes,No,No
+Estrella,Amsterdam,University of Amsterdam,3.4,Female,No,Yes,No
+Lennon,Haarlem,Haarlem University,4.0,Male,No,Yes,Yes
+Brandon,Leiden,Leiden University,0.1,Male,No,Yes,No
+Jordy,Haarlem,Haarlem University,0.2,Female,No,No,No
+Demarcus,Amsterdam,University of Amsterdam,3.5,Male,No,Yes,Yes
+Marcus,Haarlem,Haarlem University,3.3,Male,Yes,No,Yes
+Arjun,Utrecht,Utrecht University,3.2,Female,Yes,No,Yes
+Duyo,Utrecht,Utrecht University,3.3,Female,No,Yes,Yes
+Polia,Utrecht,Utrecht University,3.2,Female,Yes,No,Yes
+Chris,Leiden,Leiden University,1.3,Male,No,Yes,Yes
+Femenke,Utrecht,Utrecht University,1.4,Female,No,Yes,Yes
+Charles,Utrecht,Utrecht University,1.6,Male,No,Yes,No
+Jaden,Leiden,Leiden University,1.8,Male,No,Yes,No
+Javion,Leiden,Leiden University,2.3,Male,Yes,No,No
+Ciara,Utrecht,Utrecht University,4.0,Female,No,Yes,Yes
+Robi,Utrecht,Utrecht University,2.6,Prefer not to say,Yes,Yes,No
+Celeste,Utrecht,Utrecht University,2.2,Female,No,Yes,No
+Ziva,Amsterdam,University of Amsterdam,1.3,Female,No,Yes,No
+Kirk,Amsterdam,University of Amsterdam,1.8,Male,Yes,Yes,Yes
+Helin,Amsterdam,University of Amsterdam,1.2,Female,No,Yes,No
+Stefano,Amsterdam,University of Amsterdam,3.0,Male,Yes,Yes,No
+Abbie,Amsterdam,University of Amsterdam,3.0,Female,Yes,Yes,Yes
+Raiden,Amsterdam,University of Amsterdam,2.0,Male,Yes,Yes,No
+Ira,Amsterdam,University of Amsterdam,2.1,Female,No,Yes,No
+Otto,Amsterdam,University of Amsterdam,2.1,Male,Yes,Yes,Yes
+Aiza,Leiden,Leiden University,3.2,Female,No,Yes,No
+Gertrude,Leiden,Leiden University,3.5,Female,No,Yes,No
+Benito,Leiden,Leiden University,2.2,Male,Yes,Yes,Yes
+Debra,Leiden,Leiden University,3.4,Female,No,Yes,No
+Sebastian,Leiden,Leiden University,1.7,Male,Yes,Yes,No
+Husnain,Amsterdam,University of Amsterdam,4.0,Male,No,Yes,No
+Poppie,Amsterdam,University of Amsterdam,0.3,Male,No,No,Yes
+Sarah,Amsterdam,University of Amsterdam,0.2,Female,No,No,No
+Jordanna,Leiden,Leiden University,2.2,Female,No,No,Yes
+Loki,Leiden,Leiden University,2.3,Male,No,No,Yes
+Dilon,Amsterdam,University of Amsterdam,1.4,Male,Yes,Yes,Yes
+Dilan,Amsterdam,University of Amsterdam,1.6,Male,No,Yes,Yes
+Brax,Amsterdam,University of Amsterdam,3.2,Male,No,Yes,No
+Max,Amsterdam,University of Amsterdam,3.2,Male,No,No,Yes
+Ayub,Rotterdam,Rotterdam University,3.5,Prefer not to say,No,Yes,No
+Alia,Rotterdam,Rotterdam University,2.7,Female,Yes,No,No
+Elis,Rotterdam,Rotterdam University,2.3,Female,Yes,Yes,No
+Marni,Amsterdam,University of Amsterdam,2.5,Female,Yes,No,No
+Bert,Groningen,Groningen University,2.3,Male,No,No,No
+Tamera,Amsterdam,University of Amsterdam,3.3,Female,No,No,No
+Issa,Groningen,Groningen University,3.5,Female,No,Yes,No
+Kobe,Rotterdam,Rotterdam University,3.7,Male,No,Yes,No
+Ciaran,Rotterdam,Rotterdam University,1.2,Male,No,No,No
+Camilla,Leiden,Leiden University,0.6,Female,No,No,No
+Amalia,Leiden,Leiden University,0.5,Female,No,No,No
+Nevaeh,Leiden,Leiden University,3.2,Male,No,Yes,No
+Stephen,Leiden,Leiden University,3.3,Male,No,Yes,Yes
+Ava,Leiden,Leiden University,3.9,Female,No,Yes,No
+Kasey,Leiden,Leiden University,3.8,Female,No,No,No
+Leela,Amsterdam,University of Amsterdam,2.9,Female,No,No,No
+Avay,Amsterdam,University of Amsterdam,2.7,Male,Yes,Yes,No
+Thea,Amsterdam,University of Amsterdam,2.9,Female,No,Yes,No
+Shae,Amsterdam,University of Amsterdam,3.9,Female,No,Yes,No
+Eloise,Amsterdam,University of Amsterdam,3.9,Female,No,Yes,No
+Sidra,Amsterdam,University of Amsterdam,3.8,Female,No,No,Yes
+Che,Amsterdam,University of Amsterdam,3.7,Female,No,No,No
+Rabia,Amsterdam,University of Amsterdam,3.5,Female,Yes,Yes,No
+Josie,Amsterdam,University of Amsterdam,3.6,Female,No,Yes,No
+Gary,Amsterdam,University of Amsterdam,3.8,Male,No,No,No
+Helen,Amsterdam,University of Amsterdam,3.2,Female,No,No,No
+Karen,Amsterdam,University of Amsterdam,1.1,Female,No,Yes,No
+Ace,Amsterdam,University of Amsterdam,2.2,Male,No,No,No
+Digby,Amsterdam,University of Amsterdam,4.0,Male,No,No,No
+Kristian,Amsterdam,University of Amsterdam,0.0,Male,No,Yes,No
+Malika,Amsterdam,University of Amsterdam,3.9,Female,Yes,No,No
+Zeenat,Amsterdam,University of Amsterdam,2.3,Male,Yes,No,No
+Derren,Amsterdam,University of Amsterdam,2.3,Prefer not to say,Yes,Yes,No
+Elodie,Amsterdam,University of Amsterdam,4.0,Female,Yes,No,No
+Bibi,Amsterdam,University of Amsterdam,4.0,Female,Yes,Yes,Yes
+Saira,Amsterdam,University of Amsterdam,4.0,Female,Yes,No,No
+Rylan,Amsterdam,University of Amsterdam,4.0,Male,Yes,Yes,Yes
+Ryan,Amsterdam,University of Amsterdam,2.0,Male,Yes,No,Yes
+Kathy,Amsterdam,University of Amsterdam,1.0,Female,Yes,No,No
+Claude,Amsterdam,University of Amsterdam,3.1,Male,Yes,Yes,Yes
+Stacey,Amsterdam,University of Amsterdam,3.2,Female,Yes,No,No
+Momina,Amsterdam,University of Amsterdam,2.3,Female,No,Yes,No
+Ellesha,Amsterdam,University of Amsterdam,2.4,Female,No,Yes,No
+Fateh,Amsterdam,University of Amsterdam,2.4,Female,Yes,No,No
+Karan,Amsterdam,University of Amsterdam,2.6,Female,No,Yes,No
+Izzie,Amsterdam,University of Amsterdam,2.7,Female,Yes,Yes,No
+Constance,Groningen,Groningen University,2.8,Prefer not to say,No,Yes,No
+Ellie,Groningen,Groningen University,3.7,Female,No,No,Yes
+Dawn,Amsterdam,University of Amsterdam,3.9,Prefer not to say,No,Yes,Yes
+Saad,Groningen,Groningen University,1.2,Male,No,Yes,Yes
+Darien,Rotterdam,Rotterdam University,0.5,Male,No,Yes,Yes
+Roberta,Amsterdam,University of Amsterdam,0.2,Female,No,Yes,No
+Jeffery,Groningen,Groningen University,0.4,Male,Yes,Yes,No
+Katie,Amsterdam,University of Amsterdam,2.3,Female,No,No,Yes
+Faranza,Groningen,Groningen University,3.8,Male,Yes,Yes,No
+Jem,Amsterdam,University of Amsterdam,2.9,Female,Yes,Yes,No
+Pamela,Rotterdam,Rotterdam University,0.1,Female,No,Yes,No
+Grant,Amsterdam,University of Amsterdam,0.2,Male,Yes,Yes,No
+Nayan,Groningen,Groningen University,2.3,Male,No,Yes,Yes
+Neelam,Groningen,Groningen University,2.4,Male,No,No,Yes
+Benjamin,Amsterdam,University of Amsterdam,2.5,Male,No,Yes,Yes
+Naya,Groningen,Groningen University,2.9,Female,No,Yes,No
+Tina,Rotterdam,Rotterdam University,3.7,Female,No,Yes,No
+Wilson,Amsterdam,University of Amsterdam,3.2,Male,Yes,Yes,Yes
+Luther,Rotterdam,Rotterdam University,3.1,Male,No,No,Yes
+Macie,Amsterdam,University of Amsterdam,2.9,Female,No,No,Yes
+Rea,Rotterdam,Rotterdam University,1.4,Female,No,No,No
+Vladimir,Groningen,Groningen University,1.3,Male,Yes,Yes,No
+Libbi,Amsterdam,University of Amsterdam,2.9,Female,Yes,No,No
+Elif,Groningen,Groningen University,3.9,Female,No,Yes,Yes
+Iram,Groningen,Groningen University,4.0,Male,Yes,No,Yes
+Jia,Groningen,Groningen University,2.2,Female,No,No,Yes
+Affan,Amsterdam,University of Amsterdam,2.1,Prefer not to say,No,Yes,No
+Glenda,Groningen,Groningen University,2.4,Female,No,No,Yes
+Jamie,Groningen,Groningen University,2.6,Female,Yes,Yes,No
+Lee,Groningen,Groningen University,3.1,Prefer not to say,Yes,Yes,No
+Vicky,Amsterdam,University of Amsterdam,3.1,Female,No,No,No
+Victoria,Groningen,Groningen University,3.1,Female,Yes,Yes,No
+Zishan,Groningen,Groningen University,3.1,Male,No,No,Yes
+Bo,Amsterdam,University of Amsterdam,2.2,Male,No,No,No
+Loffy,Groningen,Groningen University,2.7,Male,No,No,No
+Daisie,Groningen,Groningen University,0.3,Female,No,No,Yes
+Lexi,Amsterdam,University of Amsterdam,2.8,Female,No,No,No
+Pierce,Rotterdam,Rotterdam University,4.0,Male,No,Yes,Yes
+Carmelo,Groningen,Groningen University,3.2,Female,No,No,Yes
+Belen,Groningen,Groningen University,2.9,Female,No,Yes,Yes
+Harper,Groningen,Groningen University,0.1,Male,Yes,No,No
+Giada,Amsterdam,University of Amsterdam,3.9,Female,No,No,No
+Briana,Groningen,Groningen University,3.8,Female,No,No,No
+Huff,Groningen,Groningen University,3.7,Male,Yes,Yes,No
+Heidi,Amsterdam,University of Amsterdam,2.6,Female,No,No,No

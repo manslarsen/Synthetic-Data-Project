@@ -1,0 +1,7 @@
+This folder contains two datasets a orginal dataset that comes from Pew Research and synthetic dataset generated from R-code via Synthpop 
+
+The orginal dataset comes from the Pew Research Center and is based on a telephone survey conducted by Princeton Survey Research Associates International between February 29 and May 8, 2016. 
+The dataset, Racial Attitudes in America, is composed of interviews with 3,769 persons in the United States. 
+To correct known demographic differences, statistical data are weighted. For the entire set of weighted data, the margin of sampling error is 2.2 percentage points.
+
+Link to the original dataset: https://www.pewresearch.org/social-trends/dataset/2016-racial-attitudes-in-america-survey/

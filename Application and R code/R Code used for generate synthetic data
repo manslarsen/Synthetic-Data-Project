@@ -1,0 +1,10 @@
+library("synthpop")
+
+codebook.syn(`mydataFormR.(2)`)$tab 
+mydata <- `mydataFormR.(2)`[, c(1, 2, 3, 4, 5, 7, 8)] 
+codebook.syn(mydata)$tab 
+mysyn <- syn(mydata)  
+mysyn$method
+mysyn$predictor.matrix
+
+multi.compare(mysyn, mydata, var = "sstate", by = "scregion")

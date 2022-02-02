@@ -6,4 +6,4 @@ This is a research project of Synthhetic Data carried out by students on behalf 
 
 For more detailed information about the datasets please read the info file inside the diffrent datsets folders
 
-For more detailed information about the r-code used to generate synthetic data and the web application please see the application and r code folder
+For more detailed information about the R code used to generate synthetic data and the web application please visit the: Application and r code folder

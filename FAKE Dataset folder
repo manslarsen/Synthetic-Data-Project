@@ -1,9 +1,0 @@
-Important note: this is FAKE_DATA with fake variables and any information shouldn't be used for any further research
-
-This folder contains a FAKE dataset and FAKE synthetic dataset 
-
-The data has been artificially fabricated made by us to demonstrate the beneficial effects of synthetic data to retain the privacy of individuals in privacy-sensitive datasets. 
-Therefore, we created variables that would give information by which individuals could be tracked. 
-These variables are ​​Location (City), University, GPA, Gender, HIV (Positive/Negative), Other STDS, Financial aid (yes/no). 
-
-
